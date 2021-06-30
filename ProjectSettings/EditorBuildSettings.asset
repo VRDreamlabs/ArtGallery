@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/_project/Scenes/1-AaronSwartzDayGallery.unity
+    guid: 81e4dc0a93d83194bb7a80d4e491ff50
+  - enabled: 1
+    path: Assets/_project/Scenes/2-AaronPhotoGallery.unity
+    guid: 4e9afa5ce91df174281d7704cd35a2c8
+  - enabled: 1
+    path: Assets/_project/Scenes/3-FursonaArtGallery.unity
+    guid: 6703832faecf2134b91ff8f524de4b1a
+  - enabled: 1
+    path: Assets/_project/Scenes/4-LearyFolsomGallery.unity
+    guid: b5002009e0ac7b8419d6d75719cb1557
+  - enabled: 1
+    path: Assets/_project/Scenes/5-JenmacGallery.unity
+    guid: 3ae1df5a4c073e649a7e8714d0d5b217
+  - enabled: 1
+    path: Assets/_project/Scenes/6-BrewsterGallery.unity
+    guid: 51533db171ba7334488951544e4b409a
+  m_configObjects: {}
